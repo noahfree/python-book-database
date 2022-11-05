@@ -1,7 +1,4 @@
-# name: Noah Free
-# date: 4/28/2021
-# pawprint: nsfq94
-# description: 'Book.py' defines class 'Book'
+# 'Book.py' defines class 'Book'
 
 # class Book has a title, author, totalPages, currentPage, genre, and a rating, along with getter and setter functions
 class Book:
